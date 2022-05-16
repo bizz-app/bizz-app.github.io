@@ -1,5 +1,3 @@
-# Bizz
-
 ## Open
 
 Bizz is developed on Github. We'll make it public as soon as we are ready to release our first beta
