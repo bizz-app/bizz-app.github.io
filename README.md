@@ -6,7 +6,7 @@ Bizz is developed on Github. We'll make it public as soon as we are ready to rel
 
 ## Privat
 
-Your data is yours. You can decide where to save it. We will nit host any infrastructure.
+Your data is yours. You can decide where to save it. We will not host any infrastructure.
 
 ## Free
 
